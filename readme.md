@@ -1,4 +1,7 @@
 # DataBrowser Balsamiq Mockup Project
 This repo contains assets and wireframes for the re-imagined Data Browser.
 
-Shared assets contained in the /assets/ folder.
+Project file is located in ./DataBrowser.bmpr.
+
+## Requirements
+Balsamiq 3.3.14 and above
